@@ -37,3 +37,6 @@ sudo docker compose up -d
 
 Интерфейс Prometheus доступен на порту 9090:
 <img width="914" height="582" alt="Снимок экрана 2026-11-20 171646" src="https://github.com/user-attachments/assets/559e71ef-b5c5-44ae-a4f4-a136eb8eead3" />
+
+## Итог
+Отработаны команды docker compose up -d, docker compose ps. Изучен принцип описания многоконтейнерных сред в едином compose.yaml и организация сети между контейнерами.
